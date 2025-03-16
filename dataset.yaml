@@ -1,0 +1,6 @@
+train: /home/shivamp22co/ml_project/dataset/images/train
+val: /home/shivamp22co/ml_project/dataset/images/val
+
+nc: 1  # number of classes (1 for number plates)
+names: ['license_plate']
+
